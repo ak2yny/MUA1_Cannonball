@@ -1,0 +1,557 @@
+{
+    "platform": "PC",
+    "sounds": [
+        {
+            "hash": 204750464,
+            "sample_index": 332,
+            "flags": 255
+        },
+        {
+            "hash": 204750465,
+            "sample_index": 333,
+            "flags": 255
+        },
+        {
+            "hash": 204750466,
+            "sample_index": 334,
+            "flags": 255
+        },
+        {
+            "hash": 204750467,
+            "sample_index": 335,
+            "flags": 255
+        },
+        {
+            "hash": 166912928,
+            "sample_index": 336,
+            "flags": 255
+        },
+        {
+            "hash": 166912929,
+            "sample_index": 337,
+            "flags": 255
+        },
+        {
+            "hash": 193428112,
+            "sample_index": 338,
+            "flags": 255
+        },
+        {
+            "hash": 193428113,
+            "sample_index": 339,
+            "flags": 255
+        },
+        {
+            "hash": 193428114,
+            "sample_index": 340,
+            "flags": 255
+        },
+        {
+            "hash": 224150848,
+            "sample_index": 341,
+            "flags": 255
+        },
+        {
+            "hash": 224150849,
+            "sample_index": 342,
+            "flags": 255
+        },
+        {
+            "hash": 224150850,
+            "sample_index": 343,
+            "flags": 255
+        },
+        {
+            "hash": 50489248,
+            "sample_index": 344,
+            "flags": 255
+        },
+        {
+            "hash": 50489249,
+            "sample_index": 345,
+            "flags": 255
+        },
+        {
+            "hash": 50489250,
+            "sample_index": 346,
+            "flags": 255
+        },
+        {
+            "hash": 217633136,
+            "sample_index": 347,
+            "flags": 255
+        },
+        {
+            "hash": 217633137,
+            "sample_index": 348,
+            "flags": 255
+        },
+        {
+            "hash": 217633138,
+            "sample_index": 349,
+            "flags": 255
+        },
+        {
+            "hash": 11288096,
+            "sample_index": 350,
+            "flags": 255
+        },
+        {
+            "hash": 11288097,
+            "sample_index": 351,
+            "flags": 255
+        },
+        {
+            "hash": 11288098,
+            "sample_index": 352,
+            "flags": 255
+        },
+        {
+            "hash": 11288099,
+            "sample_index": 353,
+            "flags": 255
+        },
+        {
+            "hash": 36499632,
+            "sample_index": 354,
+            "flags": 255
+        },
+        {
+            "hash": 36499633,
+            "sample_index": 355,
+            "flags": 255
+        },
+        {
+            "hash": 36499634,
+            "sample_index": 356,
+            "flags": 255
+        },
+        {
+            "hash": 36499635,
+            "sample_index": 357,
+            "flags": 255
+        },
+        {
+            "hash": 13833184,
+            "sample_index": 358,
+            "flags": 255
+        },
+        {
+            "hash": 13833185,
+            "sample_index": 359,
+            "flags": 255
+        },
+        {
+            "hash": 13833186,
+            "sample_index": 360,
+            "flags": 255
+        },
+        {
+            "hash": 227509552,
+            "sample_index": 361,
+            "flags": 255
+        },
+        {
+            "hash": 227509553,
+            "sample_index": 362,
+            "flags": 255
+        },
+        {
+            "hash": 144823552,
+            "sample_index": 363,
+            "flags": 255
+        },
+        {
+            "hash": 144823553,
+            "sample_index": 364,
+            "flags": 255
+        },
+        {
+            "hash": 144823554,
+            "sample_index": 365,
+            "flags": 255
+        },
+        {
+            "hash": 208866640,
+            "sample_index": 366,
+            "flags": 255
+        },
+        {
+            "hash": 208866641,
+            "sample_index": 367,
+            "flags": 255
+        },
+        {
+            "hash": 3176352,
+            "sample_index": 368,
+            "flags": 255
+        },
+        {
+            "hash": 3176353,
+            "sample_index": 369,
+            "flags": 255
+        },
+        {
+            "hash": 3176354,
+            "sample_index": 370,
+            "flags": 255
+        },
+        {
+            "hash": 154228704,
+            "sample_index": 371,
+            "flags": 255
+        },
+        {
+            "hash": 154228705,
+            "sample_index": 372,
+            "flags": 255
+        },
+        {
+            "hash": 154228706,
+            "sample_index": 373,
+            "flags": 255
+        },
+        {
+            "hash": 98581376,
+            "sample_index": 374,
+            "flags": 255
+        },
+        {
+            "hash": 98581377,
+            "sample_index": 375,
+            "flags": 255
+        },
+        {
+            "hash": 188800896,
+            "sample_index": 376,
+            "flags": 255
+        },
+        {
+            "hash": 188800897,
+            "sample_index": 377,
+            "flags": 255
+        },
+        {
+            "hash": 188800898,
+            "sample_index": 378,
+            "flags": 255
+        },
+        {
+            "hash": 171080480,
+            "sample_index": 379,
+            "flags": 255
+        },
+        {
+            "hash": 171080481,
+            "sample_index": 380,
+            "flags": 255
+        },
+        {
+            "hash": 260597392,
+            "sample_index": 381,
+            "flags": 255
+        },
+        {
+            "hash": 260597393,
+            "sample_index": 382,
+            "flags": 255
+        },
+        {
+            "hash": 260597394,
+            "sample_index": 383,
+            "flags": 255
+        },
+        {
+            "hash": 260597395,
+            "sample_index": 384,
+            "flags": 255
+        },
+        {
+            "hash": 92159957,
+            "sample_index": 385,
+            "flags": 255
+        },
+        {
+            "hash": 132382162,
+            "sample_index": 386,
+            "flags": 255
+        }
+    ],
+    "samples": [
+        {
+            "file": "Cannonball\\BORED_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\BORED2_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\BORED3_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\BORED4_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CANTGo_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CANTGO2_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CANTTALK_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CANTTALK2_3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CANTTALK3_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CMDATTACKANY_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CMDATTACKANY2_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CMDATTACKANY3_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CMDATTACKTARGET_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CMDATTACKTARGET2_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CMDATTACKTARGET3_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CMDFOLLOW_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CMDFOLLOW2_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\CMDFOLLOW3_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\EPITAPH_7.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\EPITAPH2_7.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\EPITAPH3_8.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\EPITAPH4_6.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\ISEEYOU_10.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\ISEEYOU2_10.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\ISEEYOU3_11.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\ISEEYOU4_9.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\LEVELUP.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\LEVELUP2_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\LEVELUP3_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\LOCKED_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\LOCKED2_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\LOWHEALTH_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\LOWHEALTH2_3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\LOWHEALTH3_3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\NOPOWER_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\NOPOWER2_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\NOWORK_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\NOWORK2_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\NOWORK3_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\RESPAFFIRM_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\RESPAFFIRM2_3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\RESPAFFIRM3_3.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\SIGHT_6.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\SIGHT2_9.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\TAUNTKD_9.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\TAUNTKD2_10.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\TAUNTKD3_9.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\TOOHEAVY_1.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\TOOHEAVY2_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\VICTORY_10.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\VICTORY2_10.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\VICTORY3_10.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\VICTORY4_10.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\XTREME_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        },
+        {
+            "file": "Cannonball\\XTREME2_2.wav",
+            "format": 106,
+            "sample_rate": 22050
+        }
+    ]
+}
