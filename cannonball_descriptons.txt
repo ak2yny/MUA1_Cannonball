@@ -1,0 +1,62 @@
+ability1:
+            "descname": "Thermo-Chemical Energy Field Propulsion",
+            "description": "Sam possesses the ability to bodily generate thermo-chemical energy and release it from his skin. Press and hold $MOVE while airjumping ($MOVE, $MOVE, $PT_HOLD $MOVE), or $ATTACK while flying, to use this energy as thrust to cause his body to be propelled through the air, like a cannonball. Enters flight mode upon release.",
+
+ability2:
+            "descname": "Blast Field",
+            "description": "(description from Jake)While blasting, Cannonball's blast field makes him nearly invulnerable to all $DMG.",
+
+
+
+power1:
+            "descname": "Thermo Crater",
+            "description": "Leaping into the air, Sam smashes the ground causing huge ripples in the earth, knocking enemies off their feet. Does double $DMG to enemies lying on ground.  $PT_CHARGE",
+            "descshort": "Radial",
+
+power2:
+            "descname": "Blasting Cannonball",
+            "description": "Sam blasts forward like a cannonball, knocking enemies aside.  $PT_HOLD",
+            "descshort": "Charge",
+            Special note: This is very similar to his first ability, but it enables him to enter blast mode from flying. It's also a power, using more energy and doing more damage. I will most likely remove/replace this power, because I had the idea to replace his aircombos with this blast, since they don't make so much sense with hidden legs.
+
+power3:
+            "descname": "Blast Off!",
+            "description": "Charging his thermoblast, Sam releases a bio-kinetic blast from his hand for a massive melee punch that sends enemies flying.  $PT_CHARGE",
+            "descshort": "Melee",
+
+power4:
+            "descname": "Multi Hand Blast",
+            "description": "Using kinetic blasts from his hands, Cannonball deals multiple punches that damage and stun enemies. Hold button down for several punches.  $PT_TAP",
+            "descshort": "Melee",
+            Special Note: This is a power from the older Cannonball mod, that I like and improved (basically standard melee punches with added damage and faster). Powers 3 and 4 are similar, should I remove one? Which one? (I like the name of power 3, but the coding for power 4 is unique, while power 3 coding is mostly an Ironman clone)
+
+power5:
+            "descname": "Chemical Burn",
+            "description": " Outwardly projecting his thermo-chemical blast, Cannonball tries to control a radial blast with smaller secondary shockwaves. $PT_TAP",
+            "descshort": "Radial",
+            Special Note: Because of this power I changed the xtreme, to be different.
+
+power6 (boost1):
+            "descname": "Solid Shot",
+            "description": "Raises Max $HP and Striking for a time.",
+            "descshort": "Boost",
+            Special Note: This needs a much better description. I'm not sure, if I should remove the max HP (or does it make sense?), because I feel like it should be replaced (and I don't know with what).
+
+power7:
+            "descname": "Cannonball Strike",
+            "description": "Blasts forward knocking enemies back.",
+            "descshort": "Charge",
+            Special Note: This is not a hold blast, but a quick blast, copying Rogue's torpedo power. I might replace it with a boost (He can use this blast-field to function as a personal shield or extend it to encompass others > probably reduce energy regen during that time, because it uses him much concentration to create the shield)
+
+power8 (xtreme):
+            "descname": "Coming Through",
+            "description": "Cannoball slamms into the ground damaging most enemies in the area, knocking them off their feet and stunning them.",
+            "descshort": "XTreme",
+            Special Note: The name comes from the xtreme shout from his voice file.
+                          Fitting for an xtreme (at his peak, he has been able to [...] devastate several city blocks by plummeting to the ground from high altitude.)
+
+power9 (boost):
+            "descname": "Cannon Thrust",
+            "description": "Increases movement speed.",
+            "descshort": "Boost",
+            Special Note: This needs a much better description. I should probably remove one ego boost (power 6 or 9). What do you think? If not power 7, I will most likely replace this power with the team boost.
