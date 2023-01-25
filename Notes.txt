@@ -1,0 +1,4 @@
+- For the xtreme (was it?) it's probably better to use velocity instead of slidemove.
+- For the blast effect, use Ironman's effect.
+  He has smoke which is visible when you jump normally. (Or was it when you don't have enough energy to fly? Is that possible?)
+  His flight effect might work for the "flames". Both effects need to be scaled.
